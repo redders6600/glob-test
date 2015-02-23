@@ -1,6 +1,6 @@
 {
   "name": "glob-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tests globs on your command line",
   "main": "index.js",
   "author": "Ed Hinchliffe",
