@@ -1,9 +1,10 @@
 {
   "name": "glob-test",
   "version": "1.0.0",
-  "description": "Tests minimatches on your command line",
+  "description": "Tests globs on your command line",
   "main": "index.js",
   "author": "Ed Hinchliffe",
+  "homepage": "https://github.com/redders6600/glob-test",
   "license": "ISC",
   "dependencies": {
     "glob": "~4.4.0",

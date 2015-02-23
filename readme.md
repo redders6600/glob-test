@@ -17,3 +17,5 @@ glob-test "*.coffee"
 ```
 
 Note that you can optionally exclude the quotes, but this may (depending on your environment) let the shell expand the glob. If you include the quotes, it will ensure that [node-glob](https://github.com/isaacs/node-glob) is used.
+
+[GitHub Page](https://github.com/redders6600/glob-test)
