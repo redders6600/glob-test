@@ -1,0 +1,17 @@
+{
+  "name": "glob-tester",
+  "version": "1.0.0",
+  "description": "Tests minimatches on your command line",
+  "main": "index.js",
+  "author": "Ed Hinchliffe",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "~4.4.0",
+    "chalk": "~1.0.0",
+    "q": "~1.2.0"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "globtest": "index.js"
+  }
+}
